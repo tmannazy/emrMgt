@@ -1,2 +1,4 @@
-package dummyPAckage;public class DummyClass {
+package dummyPAckage;
+
+public class DummyClass {
 }
